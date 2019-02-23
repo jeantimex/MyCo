@@ -47,8 +47,6 @@
 		1A0B10E72221E9E400D693FC /* MyCoTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyCoTests.swift; sourceTree = "<group>"; };
 		1A0B10E92221E9E400D693FC /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		1A0B10F32221EACF00D693FC /* MyCoQuickTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyCoQuickTests.swift; sourceTree = "<group>"; };
-		1A0B10F62221EB9A00D693FC /* Quick.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; path = Quick.framework; sourceTree = BUILT_PRODUCTS_DIR; };
-		1A0B10F92221EBAA00D693FC /* Nimble.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; path = Nimble.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		1A0B10FC2221F1EA00D693FC /* Nimble.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; path = Nimble.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		1A0B10FE2221F1EA00D693FC /* Quick.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; path = Quick.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		1A0B11022221F47D00D693FC /* MyCo.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyCo.swift; sourceTree = "<group>"; };
@@ -85,8 +83,6 @@
 			children = (
 				1A0B10FC2221F1EA00D693FC /* Nimble.framework */,
 				1A0B10FE2221F1EA00D693FC /* Quick.framework */,
-				1A0B10F92221EBAA00D693FC /* Nimble.framework */,
-				1A0B10F62221EB9A00D693FC /* Quick.framework */,
 				547382534939C75F934781F0 /* Pods_MyCo.framework */,
 				3041A0EEA5251AC09ED2FDD2 /* Pods_MyCoTests.framework */,
 			);
